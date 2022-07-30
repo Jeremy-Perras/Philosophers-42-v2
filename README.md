@@ -6,7 +6,7 @@
 * [How does is work ?](#how-does-is-work-)
 
 ### What is Philosophers ?
- Philosophers is a individual project at 42. The purpose is to learn more about thread, mutex.
+ Philosophers is a individual project at 42. The purpose is to learn more about thread, mutex. *The difference between this and first version, is this the time is calculate in thread by each philosophers.*
  
 ### What is it ?
 <a href="https://zupimages.net/viewer.php?id=22/13/dyc0.png"><img src="https://zupimages.net/up/22/13/dyc0.png" alt="" /></a>
